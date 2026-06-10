@@ -128,30 +128,7 @@ Courses are ranked based on similarity scores.
 
 4. Top-N Selection
 
-The highest-scoring courses are returned as recommendations.
 
-📈 Example Workflow
-User Input:
-Python, Machine Learning
-
-        │
-        ▼
-
-TF-IDF Vectorization
-
-        │
-        ▼
-
-Cosine Similarity
-
-        │
-        ▼
-
-Recommendations:
-
-1. Machine Learning Fundamentals
-2. Data Science Bootcamp
-3. NLP with Python
 🎯 Learning Outcomes
 
 This project demonstrates:
@@ -164,6 +141,8 @@ TF-IDF Vectorization
 Cosine Similarity
 Machine Learning Fundamentals
 Python Development
+
+
 🔮 Future Improvements
 Streamlit Web Application
 User Authentication
